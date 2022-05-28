@@ -1,0 +1,20 @@
+.odd{
+    background-color: rgb(248, 165, 177);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.odd.third{
+    font-size: 24px;
+}
+
+ 
+#evenone {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#eventwo {
+    background-color: hsl(120, 76%, 76%);
+    font-size: 24px;
+    font-weight: bold;
+}
