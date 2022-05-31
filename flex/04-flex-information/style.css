@@ -29,10 +29,11 @@ img {
 
 .row {
   display: flex; 
+  align-items: center;
   justify-content: center;
   gap: 52px;
 }
 
 .text {
-  max-width: 200px;
+  inline-size: 200px;
 }
